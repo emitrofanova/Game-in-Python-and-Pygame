@@ -1,4 +1,4 @@
-There is a game that I created in the last Part of a "Python Programming MOOC 2022" course.
+This is a game that I created in the last Part of a "Python Programming MOOC 2022" course.
 
 This Game consists of 3 levels. Each level has 1 robot, 10 coins and at least 1 monster. Level number = amount of monsters. 
 Monsters can be on the ground or one level upper. The player can move the robot using the arrow keys from the left edge of 
